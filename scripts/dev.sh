@@ -1,0 +1,1 @@
+webpack-dev-server --mode development --env dev --open
