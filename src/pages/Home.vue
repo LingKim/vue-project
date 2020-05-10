@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<!-- <span class="left"></span> -->
-		<h1>vue运行成功we</h1>
+		<h1>jenkins_docker玩一玩</h1>
 	</div>
 </template>
 
