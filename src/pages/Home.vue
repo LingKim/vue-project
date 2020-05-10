@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<!-- <span class="left"></span> -->
-		<h1>vue运行成功</h1>
+		<h1>vue运行成功we</h1>
 	</div>
 </template>
 
