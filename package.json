@@ -42,7 +42,7 @@
     "webpack-dev-server": "^3.9.0",
     "webpack-jarvis": "^0.3.2",
     "webpack-merge": "^4.2.2",
-    "yargs-parser": "^16.1.0"
+    "yargs-parser": "^18.1.1"
   },
   "dependencies": {
     "less": "^3.10.3",
